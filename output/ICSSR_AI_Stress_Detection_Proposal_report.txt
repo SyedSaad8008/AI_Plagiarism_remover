@@ -1,0 +1,71 @@
+======================================================================
+  AI PLAGIARISM REMOVAL REPORT
+  File     : ICSSR_AI_Stress_Detection_Proposal.docx
+  Date     : 2026-09-18 17:49:42
+  Scanned  : 2 paragraph(s)
+  Flagged  : 2 paragraph(s)
+  Rewritten: 2 paragraph(s)
+======================================================================
+
+  Paragraph #71
+  ------------------------------------------------------------------
+  ORIGINAL TEXT:
+    It is proposed that ₹6,60,000 be allocated for research staff. A
+    Research Associate will support research planning, literature
+    consolidation, ontology and model development, statistical
+    analysis, interpretation, and manuscript preparation. A Research
+    Assistant will support dataset curation, preprocessing, annotation
+    management, model experiments, documentation, and reproducibility.
+    A Field Investigator/Research Support person will assist with
+    stakeholder coordination, approved data-collection activities,
+    annotation logistics, and documentation during the relevant phase
+    of the project.
+
+  ISSUES FOUND (1):
+    [UNSUPPORTED CLAIM]
+      Phrase : ₹6,60,000 be allocated for research staff
+      Reason : The allocation amount is presented without any supporting evidence or citation
+
+  REWRITTEN TEXT:
+    It is recommended that ₹6,60,000 be allocated for research staff
+    [CITATION NEEDED]. A Research Associate will support tasks
+    including research planning, literature synthesis, ontology and
+    model development, statistical analysis, interpretation, and
+    manuscript preparation. A Research Assistant will manage dataset
+    curation, preprocessing, annotation management, model experiments,
+    documentation, and reproducibility. A Field Investigator/Research
+    Support person will coordinate stakeholder engagement, oversee
+    approved data-collection activities, manage annotation logistics,
+    and ensure documentation during the project’s relevant phases.
+
+
+  Paragraph #88
+  ------------------------------------------------------------------
+  ORIGINAL TEXT:
+    It is proposed that ₹75,000 be earmarked for dissemination of
+    project findings, subject to ICSSR approval. The amount may
+    support a final research dissemination workshop, stakeholder
+    consultation, policy-brief communication, and presentation of the
+    validated framework and responsible-use recommendations.
+
+  ISSUES FOUND (2):
+    [UNSUPPORTED CLAIM]
+      Phrase : ₹75,000 be earmarked for dissemination of project findings
+      Reason : Proposes a specific financial allocation without supporting evidence or citation
+    [AI BOILERPLATE]
+      Phrase : It is proposed that
+      Reason : Generic phrasing commonly associated with AI-generated text
+
+  REWRITTEN TEXT:
+    The document recommends allocating ₹75,000 for dissemination of
+    project findings [CITATION NEEDED], subject to ICSSR approval.
+    This amount may support a final research dissemination workshop
+    [CITATION NEEDED], stakeholder consultation [CITATION NEEDED],
+    policy-brief communication [CITATION NEEDED], and presentation of
+    the validated framework and responsible-use recommendations
+    [CITATION NEEDED].
+
+
+======================================================================
+  END OF REPORT
+======================================================================
